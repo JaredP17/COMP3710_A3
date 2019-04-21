@@ -1,4 +1,4 @@
-# COMP3710_A3
+# Improved Notes
 Improve the app developed in Assignment 2 with two new functions:
 
 1. Store the notes when the app is closed, and re-load them when the app is open (e.g., using SharedPreferences)
